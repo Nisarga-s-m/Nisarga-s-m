@@ -6,14 +6,7 @@
 
 ---
 
-## 🔹 Featured Projects  
-- 🚗 **[CarResalePrediction](https://github.com/Nisarga-s-m/CarResalePrediction)** – ML model for predicting car resale prices  
-- 🚕 **[UberDataAnalysis](https://github.com/Nisarga-s-m/UberDataAnalysis)** – Data analysis and visualization of Uber ride data  
-- 📈 **[PowerBI-Dashboard-SalesInsights](https://github.com/Nisarga-s-m/PowerBI-Dashboard-SalesInsights)** – Power BI dashboard for sales insights  
-- ☕ **[Beverages](https://github.com/Nisarga-s-m/Beverages)** – Exploratory data analysis on beverages dataset  
-- 📊 **[dashboard](https://github.com/Nisarga-s-m/dashboard)** – Interactive dashboards for analytics  
 
----
 
 ## 📌 Skills  
 - **Programming & Data**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLP)  
