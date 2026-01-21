@@ -1,6 +1,6 @@
 
 
-# Hi 👋 I'm Nisarga
+# Hi 👋 I'm Nisarg
 
 🎓 MS in Data Analytics | 💡 Aspiring Data Analyst | 🤖 ML & NLP Enthusiast  
 
