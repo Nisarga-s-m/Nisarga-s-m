@@ -15,7 +15,7 @@ I enjoy turning raw data into meaningful insights and dashboards.
 ## 🔭 What I'm Up To
 - 📊 Working on **Sentiment Analysis for E-commerce**
 - 🧠 Exploring **Machine Learning & NLP**
-- 📈 Building dashboards with **Power BI & Tableau**
+- 📈 Building dashboards with **Power BI & Tableau
 
 ---
 
